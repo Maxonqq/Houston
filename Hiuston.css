@@ -1,0 +1,62 @@
+.tablecenter {
+    text-align: center;
+}
+body {
+    width: 70%;
+    margin: 0 auto;
+}
+h1, h2, h3 {
+    font-family: Arial, sans-serif;
+    padding-top: 1.5em;
+    margin-bottom: 1em;
+}
+h1 {
+    font-size: 32px;
+}
+figcaption {
+    font-style: italic;
+    border-radius: 10px;
+border: 5px #ccc solid;
+box-shadow: 0 0 10px #444;
+padding: 5px;
+}
+figure {
+    float: right;
+    display: block;
+    width: 215;
+    height: 145;
+}
+.textwordwrap {
+    word-wrap: break-word;
+}
+.table {
+    margin: 5px;
+}
+.text {
+    font-family: sans-serif;
+    color: crimson;
+    font-size: 50px;
+    font-style: normal;
+    text-align: center;
+}
+html {
+    width: 100%;
+    background-image: linear-gradient(180deg, rgb(88, 88, 248) 1%, rgba(0, 0, 0, 0) 100%);
+    font-size: 18px;
+}
+.page_div {
+    font-size: 23px;
+}
+h1 {
+    color: black;
+    font-size: 80px;
+    text-align: center;
+}
+img {
+    border-radius: 10px;
+box-shadow: 0 0 10px #444;
+}
+.span_first {
+    font-size: 35px;
+    color: skyblue;
+}
